@@ -1,0 +1,4 @@
+for the deploying purpose,we need to use NETLIFY
+
+just run npm run build which create a dist folder which create a project docs and directly drop it to NETLIFY.
+remember to add the env variables
